@@ -3,7 +3,7 @@ output: .s
 url: docs.seashell.network
 branding:
   title: Seashell Network
-  label: Docs
+  label: Seashell Network Docs
   logo: static/seashell.png
 links:
 - text: Discord
