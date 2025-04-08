@@ -4,6 +4,7 @@ order: 85
 ---
 
 
-# Links
+# Seashell Network Documentation
 
+## Links
 - [Linktree - Seashell Network](https://linktr.ee/seashellnetwork)
