@@ -7,6 +7,7 @@ order: 100
 ## PEARL: Points, Equilibrial Action Rewarding Layer
 0xF7e818DDe218f141fD6F5a49afba51804323C318
 on Optimism chain
+https://matcha.xyz/tokens/optimism/0xf7e818dde218f141fd6f5a49afba51804323c318
 
 *Pearl* token powers the Seashell Network, rewarding contributors, protectors, and DAO members. Generated fees from the Seashell network and revenue from NFT sales will be added to its liquidity pool. Supply adapts through minting/burning as needed.<br> <br> *PEARL* is purely experimental, using Pearl or Seashell does not represent monetary value or investment. More details coming soon... stay tuned! 
 
