@@ -5,6 +5,8 @@ order: 100
 
 
 ## PEARL: Points, Equilibrial Action Rewarding Layer
+Get some here(need eth on optimism): https://pearlpocket.me
+
 0xF7e818DDe218f141fD6F5a49afba51804323C318
 on Optimism chain
 https://matcha.xyz/tokens/optimism/0xf7e818dde218f141fd6f5a49afba51804323c318
