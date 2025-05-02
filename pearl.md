@@ -5,7 +5,8 @@ order: 100
 
 
 ## PEARL: Points, Equilibrial Action Rewarding Layer
-Get some here(need eth on optimism): **https://pearlpocket.me**
+Get some here(need eth on optimism): **https://pearlpocket.me** <br>
+trade: https://matcha.xyz/tokens/optimism/0x5401a4aA1dE6F742D715a693d7c87Bcc86De2058 <br>
 
 
 Disclaimer: PEARL is purely experimental, solely used for interacting in games, and projects.  Pearl does not represent monetary value or investment, use at your own risk. 
@@ -32,6 +33,10 @@ https://optimistic.etherscan.io/token/0x5401a4aa1de6f742d715a693d7c87bcc86de2058
 p.s. Those people who bought the previous prototype Pearl token from Uniswap, are now airdropped the equivalent value in this main Pearl token.
 
 
+![token](https://github.com/user-attachments/assets/1dee1f1b-a418-4ca7-b237-41dfadb76218)
+
+
 ![Pearl](https://github.com/user-attachments/assets/947b9601-a437-4f14-b2ff-3254ae8639a6)
+
 
 
