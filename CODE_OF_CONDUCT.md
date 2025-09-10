@@ -1,4 +1,4 @@
-# Seashell Network Code of Conduct
+# Seashell Network Code of Conduct 
  
 ## About the Code of Conduct 
  
