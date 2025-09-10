@@ -9,7 +9,7 @@ This Code of Conduct sets the foundation for our collective behavior, ensuring w
 
 We, as members, contributors, and leaders of Seashell Network, pledge to:
 
-- Make participation in the community a harassment-free experience for everyone.
+- Make participation in the community a harassment-free experience for everyone. 
 - Act with empathy, kindness, and respect in all interactions.
 - Be inclusive of diverse opinions, experiences, and perspectives.
 - Take responsibility for our words and actions.
