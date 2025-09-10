@@ -6,7 +6,7 @@ Seashell Network is built on the belief that decentralized communities thrive wh
 
 This Code of Conduct sets the foundation for our collective behavior, ensuring we can collaborate effectively and with kindness. It also outlines how to address and report misconduct.
 
-## Our Pledge
+## Our Pledge 
 
 We, as members, contributors, and leaders of Seashell Network, pledge to:
 
