@@ -1,6 +1,6 @@
 # Seashell Network Code of Conduct
  
-## About the Code of Conduct
+## About the Code of Conduct 
 
 Seashell Network is built on the belief that decentralized communities thrive when inclusivity, creativity, and mutual respect are at the core. We are committed to fostering a safe and empowering space where every contributor feels welcome regardless of gender identity and expression, sexual orientation, disability, appearance, ethnicity, nationality, race, age, religion, level of experience, or background.
 
